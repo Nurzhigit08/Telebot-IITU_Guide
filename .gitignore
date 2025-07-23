@@ -1,0 +1,11 @@
+.venv/
+
+# Кеш Python
+__pycache__/
+*.py[cod]
+
+# Системные файлы macOS
+.DS_Store
+
+# Файлы переменных среды
+.env
